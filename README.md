@@ -1,1 +1,6 @@
-# 365
+#Bet365
+DOMAIN-SUFFIX,bet365.com
+DOMAIN-SUFFIX,365lpodds.com
+DOMAIN-SUFFIX,imagecache365.com
+DOMAIN-SUFFIX,beterstream.xyz
+DOMAIN-KEYWORD,bet365
